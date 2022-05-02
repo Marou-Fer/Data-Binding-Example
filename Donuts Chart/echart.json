@@ -11,7 +11,7 @@
     {
       "kind": "main",
       "tag": "com-sap-sample-echarts-pie_chart",
-      "url": "https://.../.../echart_main.js",
+      "url": "https://customwidget.github.io/Data-Binding-Example/Donuts%20Chart/echart_main.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
