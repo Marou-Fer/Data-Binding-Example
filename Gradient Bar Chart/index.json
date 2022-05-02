@@ -12,7 +12,7 @@
     {
       "kind": "main",
       "tag": "com-sap-sample-echarts-bar-gradient-binding",
-      "url": "https://obey.wdf.sap.corp/temp/AppDesignCustomWidgets/custom-widget-samples/CWDBDemo/bar-gradient-binding/main.js",
+      "url": "https://customwidget.github.io/Data-Binding-Example/Gradient%20Bar%20Chart/main.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
