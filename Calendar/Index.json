@@ -12,7 +12,7 @@
     {
       "kind": "main",
       "tag": "com-sap-sample-echarts-calendar",
-      "url": "https://obey.wdf.sap.corp/temp/AppDesignCustomWidgets/custom-widget-samples/calendar/main.js",
+      "url": "https://customwidget.github.io/Data-Binding-Example/Calendar/main.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
