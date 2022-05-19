@@ -1,4 +1,4 @@
-const BASE_URL = 'https://obey.wdf.sap.corp/temp/AppDesignCustomWidgets/custom-widget-samples/bar-race-country'
+const BASE_URL = 'https://customwidget.github.io/Data-Binding-Example/Bar-Race-Country'
 
 var getScriptPromisify = (src) => {
   return new Promise(resolve => {
