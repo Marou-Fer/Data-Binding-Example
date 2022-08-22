@@ -11,7 +11,7 @@
     {
       "kind": "main",
       "tag": "com-sap-sample-echarts-nested_chart",
-      "url": "https://ds-static-sample.cfapps.eu12.hana.ondemand.com/NestedPie/main_nested.js",
+      "url": "https://customwidget.github.io/Data-Binding-Example/NestedPieChart/main_nested.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
