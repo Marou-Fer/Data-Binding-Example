@@ -11,7 +11,7 @@
         {
             "kind": "main",
             "tag": "github-sap-funnel-chart",
-            "url": "https://obey.wdf.sap.corp/temp/AppDesignCustomWidgets/custom-widget-samples/CWDBDemo/funnelchart/funnelchart.js",
+            "url": "https://customwidget.github.io/Data-Binding-Example/Funnel%20Chart/funnelchart.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
