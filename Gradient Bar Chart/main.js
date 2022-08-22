@@ -63,7 +63,7 @@ var getScriptPromisify = (src) => {
         data: dataAxis,
         axisLabel: {
           inside: true,
-          color: '#000000'
+           color: '#fff'
         },
         axisTick: {
           show: false
@@ -95,17 +95,17 @@ var getScriptPromisify = (src) => {
           showBackground: true,
           itemStyle: {
             color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
-              { offset: 0, color: '#094d6b' },
-              { offset: 0.5, color: '#094d6b' },
-              { offset: 1, color: '#094d6b' }
+              { offset: 0, color: '#83bff6' },
+          { offset: 0.5, color: '#188df0' },
+          { offset: 1, color: '#188df0' }
             ])
           },
           emphasis: {
             itemStyle: {
               color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
-                { offset: 0, color: '#f7ab1d' },
-                { offset: 0.7, color: '#f7ab1d' },
-                { offset: 1, color: '#f7ab1d' }
+                 { offset: 0, color: '#2378f7' },
+            { offset: 0.7, color: '#2378f7' },
+            { offset: 1, color: '#83bff6' }
               ])
             }
           },
