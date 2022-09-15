@@ -147,7 +147,7 @@ var getScriptPromisify = (src) => {
 
     async render () {
       if (!window.echarts) {
-        await getScriptPromisify('https://cdn.staticfile.org/echarts/5.0.0/echarts.min.js')
+        await getScriptPromisify('https://cdnjs.cloudflare.com/ajax/libs/echarts/5.0.0/echarts.min.js')
       }
 
       if (this._myChart) {
