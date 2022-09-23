@@ -94,5 +94,5 @@ var getScriptPromisify = (src) => {
     }
   }
 
-  customElements.define('com-sap-sample-echarts-pie_chart', SamplePieChar)
+  customElements.define('com-sap-sample-echarts-pie_chart', SamplePieChart)
 })()
